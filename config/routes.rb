@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'unavailabilities/index'
+  get 'availabilities/index'
   get 'shifts/index'
   root "schedules#index"
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html

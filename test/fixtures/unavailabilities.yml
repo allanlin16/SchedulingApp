@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  unavailabilityStart: 2022-05-09 16:52:55
+  unavailability: 2022-05-09 16:52:55
+
+two:
+  unavailabilityStart: 2022-05-09 16:52:55
+  unavailability: 2022-05-09 16:52:55
